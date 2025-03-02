@@ -21,6 +21,7 @@
 ## 🛠️ Technologies utilisées
 - **Laravel** (Back-end PHP)
 - **SQLite** (Base de données)
+- **Blade** (Moteur de templates)
 - **Bootstrap** (Interface responsive)
 
 ## 📥 Exécution
